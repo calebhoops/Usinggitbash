@@ -6,6 +6,14 @@ html {
 h1 {
     color: #5ff202;
     font-family: 'SourceCodePro-Medium', ＭＳ ゴシック, 'MS Gothic', monospace;
-    margin-center;
+    padding-left: 200px;
+
+}
+div {
+    padding-left: 150px;
+    font-family: Arial;
+    color: #5ff;
+    
+    
 }
 
